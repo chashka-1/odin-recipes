@@ -1,0 +1,50 @@
+body {
+    color:#493548;
+    background-color: #f8ebe4;
+    font-family: "Courier New", "Monaco", monospace;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 100px;
+    font-size: xx-large;
+    box-sizing: border-box;
+    border-color:#E4FDE1;
+    border-width: 10px;
+    
+}
+
+img {
+    max-width: 100%;
+}
+
+body, li, h1 {
+    text-align: center;
+}
+
+
+h1 {
+    border-color: white;
+}
+
+ul {
+    width: 200px;
+    margin:0 auto;
+}
+
+li {
+    margin: 25px    auto;
+}
+
+.gp {
+    border: 3px solid green;
+}
+
+.rnb {
+    border: 3px solid rgb(104, 11, 11);
+}
+
+button {
+    font-size:large;
+    padding: 20px 50px;
+    background-color: #493548;
+    color:#f8ebe4   ;
+}
